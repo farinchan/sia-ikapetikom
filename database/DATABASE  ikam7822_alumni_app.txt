@@ -1,0 +1,3 @@
+DATABASE : ikam7822_alumni_app
+USERNAME : ikam7822_alumni_app
+PASSWORD : mxv&}l-o#R&p

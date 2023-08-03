@@ -1,0 +1,45 @@
+#populer:hover{
+    color: rgb(65, 154, 206);
+}
+#populer{
+    color: #000;
+}
+#card-donasi{
+    margin-top: 8px;
+}
+.callout {
+    padding: 20px;
+    margin-bottom: 40px;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    border-left-color:  rgb(215, 245, 217);
+    background-color: rgb(215, 245, 217);
+}
+
+#textarea_diskusi:focus{
+    outline: none;
+    border: 1px solid #888; 
+    outline: none;
+    box-shadow:none !important;
+    border:1px solid #422918;
+    
+}
+#judul_post, #kategori_post, #nama_alumni, #nominal_donasi, #tahun_angkatan, #rekening_tujuan, #kecamatan, #kabupaten, #provinsi, #email, #no_hp, #tahun_lulus, #detail_status, #nisn, #password, #email_nisn, #captcha, #textarea_pesan:focus{
+    border: 1px solid rgb(207, 201, 201); 
+    outline: none;
+    box-shadow:none !important;
+    border:1px solid #9e9894
+}
+
+@media (max-width: 500px){
+    #image-diskusi{
+        display: none;
+    }
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
